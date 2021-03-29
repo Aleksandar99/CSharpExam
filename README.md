@@ -1,2 +1,2 @@
-# CSharpExam
-CSharpExam - Svetoslav Denev - Table tennis
+# CSharpExam-Table tennis
+CSharpExam - Table tennis
